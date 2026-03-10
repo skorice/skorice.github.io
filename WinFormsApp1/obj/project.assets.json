@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\232909071094-17\\source\\repos\\skorice.github.io\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "H:\\Медведева Юлия\\УП 01 01\\Задачи\\1\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\232909071094-17\\source\\repos\\skorice.github.io\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "H:\\Медведева Юлия\\УП 01 01\\Задачи\\1\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\232909071094-17\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\232909071094-17\\source\\repos\\skorice.github.io\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "outputPath": "H:\\Медведева Юлия\\УП 01 01\\Задачи\\1\\WinFormsApp1\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
