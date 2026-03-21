@@ -1,0 +1,5 @@
+﻿Kio;15;30
+Volkswagen;213;12
+Toyota;50;100
+Lada;10;50
+Audi;300;50
