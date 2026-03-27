@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+    <head>
+        Тест по пригородам Санкт-Петербурга
+    </head>
+
+    <description>
+        Тест по достопримечательностям пригородов Санкт-Петербурга. Имеет 2 темы по 5 вопросов: 
+        Пригороды и их достопримечательности.
+    </description>
+
+            <!--ТЕМА НОМЕР 1-->
+    <theme name="Природа и культура пригородов СПб" id="theme1">
+        <level dif="1">
+            <qw>
+                <q>
+                    <text>Как называется крупнейший лесопарк в окрестностях Санкт-Петербурга?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Сосновка</answer>
+                        <answer correct="false">Удельный парк</answer>
+                        <answer correct="true">Юнтолово</answer>
+                        <answer correct="false">Комаровский берег</answer>
+                        </answers>
+                </q>
+                <q>
+                    <text>На берегу какого залива расположен Сестрорецкий курорт?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Невская губа</answer>
+                        <answer correct="true">Финский залив</answer>
+                        <answer correct="false">Выборгский залив</answer>
+                        <answer correct="false">Копорская губа</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какое озеро находится в заказнике «Сестрорецкое болото»?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Суздальское</answer>
+                        <answer correct="false">Разлив</answer>
+                        <answer correct="true">Сестрорецкий Разлив</answer>
+                        <answer correct="false">Лахтинский разлив</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какой тип леса преобладает в окрестностях посёлка Комарово?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Берёзовая роща</answer>
+                        <answer correct="true">Сосновый лес</answer>
+                        <answer correct="false">Ельник</answer>
+                        <answer correct="false">Дубравы</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>В каком году началось строительство Петергофа?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">1703</answer>
+                        <answer correct="true">1714</answer>
+                        <answer correct="false">1725</answer>
+                        <answer correct="false">1740</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Как назывался Царскосельский лицей, где учился Пушкин?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="true">Императорский лицей</answer>
+                        <answer correct="false">Александровский лицей</answer>
+                        <answer correct="false">Благородный пансион</answer>
+                        <answer correct="false">Пушкинский лицей</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>В каком пригороде в 1918 году была убита семья последнего российского императора?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Царское Село</answer>
+                        <answer correct="false">Гатчина</answer>
+                        <answer correct="false">Петергоф</answer>
+                        <answer correct="true">Екатеринбург</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какой пригород был переименован в 1948 году в честь русского учёного?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="true">Ораниенбаум → Ломоносов</answer>
+                        <answer correct="false">Петергоф → Петродворец</answer>
+                        <answer correct="false">Царское Село → Пушкин</answer>
+                        <answer correct="false">Гатчина → Троцк</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Кто из русских царей предпочитал Гатчину и часто там жил?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Пётр I</answer>
+                        <answer correct="true">Павел I</answer>
+                        <answer correct="false">Николай I</answer>
+                        <answer correct="false">Александр II</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>В каком пригороде в 1941–1944 годах проходила линия обороны «Ораниенбаумский плацдарм»?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="true">Ломоносов</answer>
+                        <answer correct="false">Петергоф</answer>
+                        <answer correct="false">Стрельна</answer>
+                        <answer correct="false">Пушкин</answer>
+                    </answers>
+                </q>
+
+            </qw>
+        </level>
+
+        <level dif="2">
+            <qw>
+                <q>
+                    <text>Какой тип леса преобладает в окрестностях Сестрорецка?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Тайга</answer>
+                        <answer correct="true">Сосновый бор</answer>
+                        <answer correct="false">Дубрава</answer>
+                        <answer correct="false">Смешанный лес</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Назовите самый крупный валун в окрестностях Петербурга, находящийся в парке «Дубки»</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Синий камень</answer>
+                        <answer correct="true">Дундас</answer>
+                        <answer correct="false">Камень‑великан</answer>
+                        <answer correct="false">Гром‑камень</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какое растение занесено в Красную книгу и встречается на побережье Финского залива?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Венерин башмачок</answer>
+                        <answer correct="true">Пальчатокоренник балтийский</answer>
+                        <answer correct="false">Лютик едкий</answer>
+                        <answer correct="false">Кубышка жёлтая</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Как называется мыс в районе посёлка Лисий Нос, известный своими ландшафтами?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Мыс Флотский</answer>
+                        <answer correct="false">Мыс Дубковский</answer>
+                        <answer correct="true">Мыс Лисий Нос</answer>
+                        <answer correct="false">Мыс Северный</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какое озеро находится в черте города Зеленогорска?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="true">Зеленогорское</answer>
+                        <answer correct="false">Пухтоловское</answer>
+                        <answer correct="false">Вуокса</answer>
+                        <answer correct="false">Суходольское</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какой пригород во время Великой Отечественной войны носил название «Город‑герой»?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Петергоф</answer>
+                        <answer correct="false">Пушкин</answer>
+                        <answer correct="false">Павловск</answer>
+                        <answer correct="true">Ломоносов (Ораниенбаум)</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Как назывался летний лагерь для учащихся Царскосельского лицея?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Павловский парк</answer>
+                        <answer correct="true">Большое Царскосельское озеро</answer>
+                        <answer correct="false">Собственный садик</answer>
+                        <answer correct="false">Лицейский сад</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>В каком пригороде находится музей-усадьба «Приютино»?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="true">Всеволожск</answer>
+                        <answer correct="false">Пушкин</answer>
+                        <answer correct="false">Сестрорецк</answer>
+                        <answer correct="false">Ломоносов</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какое учебное заведение находилось в Царском Селе в XIX веке?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Пажеский корпус</answer>
+                        <answer correct="true">Царскосельский лицей</answer>
+                        <answer correct="false">Александровский кадетский корпус</answer>
+                        <answer correct="false">Смольный институт</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Кто основал город Петергоф?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="true">Пётр I</answer>
+                        <answer correct="false">Екатерина II</answer>
+                        <answer correct="false">Александр I</answer>
+                        <answer correct="false">Николай I</answer>
+                    </answers>
+                </q>
+
+            </qw>
+        </level>
+
+        <level dif="3">
+            <qw>
+                <q>
+                    <text>Какое озеро входит в состав заказника «Гладышевский»?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Ладожское</answer>
+                        <answer correct="true">Гладышевское</answer>
+                        <answer correct="false">Онежское</answer>
+                        <answer correct="false">Разлив</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какая река протекает через заказник «Сестрорецкое болото» и впадает в озеро Разлив?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="true">Сестра</answer>
+                        <answer correct="false">Чёрная</answer>
+                        <answer correct="false">Гладышевка</answer>
+                        <answer correct="false">Каменка</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какой вид мха, образующий сплошной покров на верховых болотах, преобладает в Сестрорецком болоте?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="true">Сфагнум</answer>
+                        <answer correct="false">Кукушкин лён</answer>
+                        <answer correct="false">Печёночный мох</answer>
+                        <answer correct="false">Ягель</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какое редкое водоплавающее растение можно встретить в озере Разлив?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Кувшинка белая</answer>
+                        <answer correct="true">Кубышка жёлтая</answer>
+                        <answer correct="false">Водокрас лягушачий</answer>
+                        <answer correct="false">Рогоз широколистный</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какой минералогический памятник природы находится в Ломоносовском районе?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Георгиевский карьер</answer>
+                        <answer correct="true">Ломоносовский фосфоритный горизонт</answer>
+                        <answer correct="false">Пудостский камень</answer>
+                        <answer correct="false">Гатчинские пещеры</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Кто из известных композиторов жил в усадьбе «Сиворицы» под Гатчиной?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Пётр Чайковский</answer>
+                        <answer correct="true">Михаил Глинка</answer>
+                        <answer correct="false">Николай Римский-Корсаков</answer>
+                        <answer correct="false">Сергей Прокофьев</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>В каком пригороде состоялась первая в России демонстрация электрического трамвая?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Петергоф</answer>
+                        <answer correct="false">Царское Село</answer>
+                        <answer correct="true">Гатчина</answer>
+                        <answer correct="false">Павловск</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>>Какая семья владела имением «Марьино» под Гатчиной?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Юсуповы</answer>
+                        <answer correct="true">Строгановы</answer>
+                        <answer correct="false">Шереметевы</answer>
+                        <answer correct="false">Воронцовы</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какой архитектор спроектировал Приоратский дворец в Гатчине?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Франческо Растрелли</answer>
+                        <answer correct="true">Николай Львов</answer>
+                        <answer correct="false">Джакомо Кваренги</answer>
+                        <answer correct="false">Андреян Захаров</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какое уникальное сооружение находилось в Царском Селе и было разрушено в годы войны?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Александровский дворец</answer>
+                        <answer correct="true">Белая башня (Феодоровский городок)</answer>
+                        <answer correct="false">Китайская деревня</answer>
+                        <answer correct="false">Эрмитажный павильон</answer>
+                    </answers>
+                </q>
+
+            </qw>
+        </level>
+    </theme>
+            <!--ТЕМА НОМЕР 2-->
+    <theme name="Достопримечательности пригородов СПб" id="theme2">
+        <level dif="1">
+            <qw>
+                <q>
+                    <text>В каком пригороде находится Большой Екатерининский дворец?</text>
+                    <img></img>
+                    <answers>
+                        <answer correct="false">Петергоф</answer>
+                        <answer correct="false">Павловск</answer>
+                        <answer correct="true">Царское Село (Пушкин)</answer>
+                        <answer correct="false">Гатчина</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Как называется знаменитый фонтанный комплекс в Петергофе?</text>
+                    <img>images/peterhof_fountain.jpg</img>
+                    <answers>
+                        <answer correct="false">Самсон</answer>
+                        <answer correct="true">Большой каскад</answer>
+                        <answer correct="false">Шахматная гора</answer>
+                        <answer correct="false">Золотая гора</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какой музей находится в Гатчинском дворце?</text>
+                    <img>images/gatchina_museum.jpg</img>
+                    <answers>
+                        <answer correct="true">Дворец-музей</answer>
+                        <answer correct="false">Музей истории техники</answer>
+                        <answer correct="false">Музей авиации</answer>
+                        <answer correct="false">Художественный музей</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Архитектор, построивший Большой дворец в Петергофе?</text>
+                    <img>images/rastrelli.jpg</img>
+                    <answers>
+                        <answer correct="true">Франческо Растрелли</answer>
+                        <answer correct="false">Чарльз Камерон</answer>
+                        <answer correct="false">Джакомо Кваренги</answer>
+                        <answer correct="false">Андреян Захаров</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какая скульптура является главным фонтаном Большого каскада в Петергофе?</text>
+                    <img>images/samson.jpg</img>
+                    <answers>
+                        <answer correct="false">Адам</answer>
+                        <answer correct="false">Нептун</answer>
+                        <answer correct="true">Самсон, раздирающий пасть льва</answer>
+                        <answer correct="false">Персей</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Как называется парк в Павловске, разбитый вокруг дворца?</text>
+                    <img>images/pavlovsk_park.jpg</img>
+                    <answers>
+                        <answer correct="true">Павловский парк</answer>
+                        <answer correct="false">Английский парк</answer>
+                        <answer correct="false">Екатерининский парк</answer>
+                        <answer correct="false">Александровский парк</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>В каком пригороде находится Китайский дворец?</text>
+                    <img>images/orenbaum_chinese.jpg</img>
+                    <answers>
+                        <answer correct="false">Пушкин</answer>
+                        <answer correct="false">Павловск</answer>
+                        <answer correct="true">Ломоносов (Ораниенбаум)</answer>
+                        <answer correct="false">Стрельна</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Как называется дворец в Стрельне, построенный при Петре I?</text>
+                    <img>images/strelna_palace.jpg</img>
+                    <answers>
+                        <answer correct="false">Марли</answer>
+                        <answer correct="true">Константиновский дворец</answer>
+                        <answer correct="false">Монплезир</answer>
+                        <answer correct="false">Воронцовский дворец</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какой архитектурный стиль преобладает в Гатчинском дворце?</text>
+                    <img>images/gatchina_style.jpg</img>
+                    <answers>
+                        <answer correct="true">Классицизм с элементами средневекового замка</answer>
+                        <answer correct="false">Барокко</answer>
+                        <answer correct="false">Модерн</answer>
+                        <answer correct="false">Ампир</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Где находится знаменитая Янтарная комната?</text>
+                    <img>images/amber_room.jpg</img>
+                    <answers>
+                        <answer correct="false">Она находится в Павловском дворце</answer>
+                        <answer correct="true">Она находится в Екатерининском дворце Царского Села</answer>
+                        <answer correct="false">Она находится в Петергофе</answer>
+                        <answer correct="false">Она была утрачена и не восстановлена</answer>
+                    </answers>
+                </q>
+
+            </qw>
+        </level>
+
+        <level dif="2">
+            <qw>
+                <q>
+                    <text>Архитектор, создавший Павловский дворец и парк?</text>
+                    <img>images/cameron.jpg</img>
+                    <answers>
+                        <answer correct="false">Франческо Растрелли</answer>
+                        <answer correct="true">Чарльз Камерон</answer>
+                        <answer correct="false">Андреян Захаров</answer>
+                        <answer correct="false">Джакомо Кваренги</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Как назывался первый дворец в Ораниенбауме, построенный для Меншикова?</text>
+                    <img>images/menshikov_palace.jpg</img>
+                    <answers>
+                        <answer correct="true">Большой Меншиковский дворец</answer>
+                        <answer correct="false">Итальянский дворец</answer>
+                        <answer correct="false">Китайский дворец</answer>
+                        <answer correct="false">Каменное зало</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Кто был первым владельцем Павловска после его основания?</text>
+                    <img>images/paul_first.jpg</img>
+                    <answers>
+                        <answer correct="false">Екатерина II</answer>
+                        <answer correct="true">Павел I</answer>
+                        <answer correct="false">Александр I</answer>
+                        <answer correct="false">Пётр III</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какая достопримечательность Царского Села была построена в честь победы в русско-турецкой войне?</text>
+                    <img>images/cahul_obelisk.jpg</img>
+                    <answers>
+                        <answer correct="false">Чесменская колонна</answer>
+                        <answer correct="true">Кагульский обелиск</answer>
+                        <answer correct="false">Морейская колонна</answer>
+                        <answer correct="false">Орловская арка</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какое сооружение в Петергофе является самым старым фонтаном?</text>
+                    <img>images/sheaf_fountain.jpg</img>
+                    <answers>
+                        <answer correct="false">Самсон</answer>
+                        <answer correct="true">Шахматная гора</answer>
+                        <answer correct="false">Большой каскад</answer>
+                        <answer correct="false">Фонтан «Сноп»</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>В каком пригороде находится памятник «Стерегущий»?</text>
+                    <img>images/steregushy.jpg</img>
+                    <answers>
+                        <answer correct="false">Кронштадт</answer>
+                        <answer correct="true">Ломоносов (Ораниенбаум)</answer>
+                        <answer correct="false">Петергоф</answer>
+                        <answer correct="false">Сестрорецк</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какая уникальная постройка есть в Александровском дворце Царского Села?</text>
+                    <img>images/alexander_palace.jpg</img>
+                    <answers>
+                        <answer correct="false">Китайская деревня</answer>
+                        <answer correct="true">Китайский театр</answer>
+                        <answer correct="false">Феодоровский городок</answer>
+                        <answer correct="false">Эрмитажный павильон</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Как назывался театр в Ораниенбауме, построенный в середине XVIII века?</text>
+                    <img>images/orenbaum_theatre.jpg</img>
+                    <answers>
+                        <answer correct="true">Каменное зало</answer>
+                        <answer correct="false">Китайский театр</answer>
+                        <answer correct="false">Оперный дом</answer>
+                        <answer correct="false">Летний театр</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какой мост в Павловском парке является архитектурной доминантой?</text>
+                    <img>images/pavlovsk_bridge.jpg</img>
+                    <answers>
+                        <answer correct="false">Большой каменный мост</answer>
+                        <answer correct="false">Горбатый мостик</answer>
+                        <answer correct="true">Пиль-башня (готический мост)</answer>
+                        <answer correct="false">Чугунный мост</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какой пригород был подарен Петром I своей супруге Екатерине?</text>
+                    <img>images/ekaterina_gift.jpg</img>
+                    <answers>
+                        <answer correct="false">Петергоф</answer>
+                        <answer correct="true">Екатерингоф (ныне в черте города)</answer>
+                        <answer correct="false">Царское Село</answer>
+                        <answer correct="false">Стрельна</answer>
+                    </answers>
+                </q>
+
+            </qw>
+        </level>
+
+        <level dif="3">
+            <qw>
+                <q>
+                    <text>В каком пригороде расположен дворец, построенный для императора Павла I?</text>
+                    <img>images/gatchina_palace.jpg</img>
+                    <answers>
+                        <answer correct="false">Ораниенбаум</answer>
+                        <answer correct="false">Царское Село</answer>
+                        <answer correct="true">Гатчина</answer>
+                        <answer correct="false">Стрельна</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Как назывался ландшафтный парк, созданный в Павловске по проекту Гонзаго?</text>
+                    <img>images/gonzago_park.jpg</img>
+                    <answers>
+                        <answer correct="true">Долина прудов</answer>
+                        <answer correct="false">Большая звезда</answer>
+                        <answer correct="false">Собственный садик</answer>
+                        <answer correct="false">Сильвия</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какая колонна в Царском Селе посвящена победе в русско-турецкой войне 1768–1774 годов?</text>
+                    <img>images/moreyskaya_column.jpg</img>
+                    <answers>
+                        <answer correct="true">Морейская колонна</answer>
+                        <answer correct="false">Чесменская колонна</answer>
+                        <answer correct="false">Кагульский обелиск</answer>
+                        <answer correct="false">Крымская колонна</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какое здание в Гатчине было построено для содержания слонов?</text>
+                    <img>images/elephant_house.jpg</img>
+                    <answers>
+                        <answer correct="true">Слоновый дом</answer>
+                        <answer correct="false">Зверинец</answer>
+                        <answer correct="false">Карпин пруд</answer>
+                        <answer correct="false">Ферма</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Как называется дворец в Петергофе, построенный Петром I для уединения?</text>
+                    <img>images/monplaisir.jpg</img>
+                    <answers>
+                        <answer correct="true">Монплезир</answer>
+                        <answer correct="false">Марли</answer>
+                        <answer correct="false">Эрмитаж</answer>
+                        <answer correct="false">Воронцовский дворец</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какое сооружение в Царском Селе было создано по проекту Чарльза Камерона?</text>
+                    <img>images/cameron_gallery.jpg</img>
+                    <answers>
+                        <answer correct="true">Камеронова галерея</answer>
+                        <answer correct="false">Агатовые комнаты</answer>
+                        <answer correct="false">Холодная баня</answer>
+                        <answer correct="false">Висячий сад</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какой дворец в Ораниенбауме является единственным сохранившимся памятником рококо в России?</text>
+                    <img>images/chinese_palace.jpg</img>
+                    <answers>
+                        <answer correct="false">Большой Меншиковский дворец</answer>
+                        <answer correct="true">Китайский дворец</answer>
+                        <answer correct="false">Каменное зало</answer>
+                        <answer correct="false">Дворец Петра III</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Как назывался подземный ход в Гатчинском дворце?</text>
+                    <img>images/underground_passage.jpg</img>
+                    <answers>
+                        <answer correct="false">Подземная река</answer>
+                        <answer correct="true">Подземный ход к Серебряному озеру</answer>
+                        <answer correct="false">Тайная лестница</answer>
+                        <answer correct="false">Катакомбы</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какая скульптурная группа в Павловском парке изображает Аполлона и муз?</text>
+                    <img>images/apollo_muses.jpg</img>
+                    <answers>
+                        <answer correct="true">Храм Аполлона</answer>
+                        <answer correct="false">Павильон Трёх граций</answer>
+                        <answer correct="false">Памятник родителям</answer>
+                        <answer correct="false">Статуя Венеры</answer>
+                    </answers>
+                </q>
+                <q>
+                    <text>Какой уникальный водовод был построен в Петергофе для питания фонтанов?</text>
+                    <img>images/peterhof_aqueduct.jpg</img>
+                    <answers>
+                        <answer correct="false">Ропшинский канал</answer>
+                        <answer correct="true">Петергофский водовод (канал)</answer>
+                        <answer correct="false">Лиговский канал</answer>
+                        <answer correct="false">Обводный канал</answer>
+                    </answers>
+                </q>
+            </qw>
+        </level>
+    </theme>
+            
+</test>
